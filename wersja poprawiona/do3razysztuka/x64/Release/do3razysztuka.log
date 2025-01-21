@@ -1,0 +1,27 @@
+﻿D:\visualstudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (do3razysztuka.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Animacje.cpp
+  Etykiety.cpp
+  main.cpp
+C:\Users\Akita\source\repos\wersja poprawiona\do3razysztuka\Etykiety.cpp(57,13): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Akita\source\repos\wersja poprawiona\do3razysztuka\Etykiety.cpp(58,13): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Akita\source\repos\wersja poprawiona\do3razysztuka\Etykiety.cpp(59,12): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Akita\source\repos\wersja poprawiona\do3razysztuka\Etykiety.cpp(60,12): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Akita\source\repos\wersja poprawiona\do3razysztuka\Etykiety.cpp(61,12): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Akita\source\repos\wersja poprawiona\do3razysztuka\Etykiety.cpp(62,12): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  Nakladki.cpp
+C:\Users\Akita\source\repos\wersja poprawiona\do3razysztuka\Nakladki.cpp(93,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Akita\source\repos\wersja poprawiona\do3razysztuka\Nakladki.cpp(114,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Akita\source\repos\wersja poprawiona\do3razysztuka\Nakladki.cpp(120,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Akita\source\repos\wersja poprawiona\do3razysztuka\Nakladki.cpp(137,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Akita\source\repos\wersja poprawiona\do3razysztuka\Nakladki.cpp(143,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ObiektySymulacji.cpp
+  Rury.cpp
+  Sterowanie.cpp
+  Symulacja.cpp
+  ZapisPlikC.cpp
+  Generating code
+  452 of 463 functions (97.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  do3razysztuka.vcxproj -> C:\Users\Akita\source\repos\wersja poprawiona\x64\Release\wersja poprawiona.exe
